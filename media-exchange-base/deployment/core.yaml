@@ -1,6 +1,6 @@
 AWSTemplateFormatVersion: '2010-09-09'
-Description: >
-  Cloudformation template for media exchange common resources.
+Description: "SO0109 Live Streaming on AWS with MediaStore Solution v1.2.0"
+
 
 Metadata:
 
